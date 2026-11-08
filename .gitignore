@@ -1,0 +1,10 @@
+data/raw/
+slides/preview/
+slides/preview_v2/
+__pycache__/
+.ipynb_checkpoints/
+notebooks/
+runs/
+*.pt
+.venv/
+.python-version

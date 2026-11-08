@@ -1,0 +1,11 @@
+matplotlib>=3.8
+numpy>=1.26
+pillow>=10.0
+python-pptx>=1.0
+requests>=2.31
+opencv-python>=4.9
+
+# Used when training starts in a later milestone.
+# ultralytics>=8.3
+# torch
+# torchvision
